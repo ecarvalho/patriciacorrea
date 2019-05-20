@@ -382,3 +382,13 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.main {
+  min-height: 100vh;
+  padding-bottom: 4.5rem;
+}
+
+.copyright {
+  margin-top: -4.5rem;
+  height: 4.5rem;
+}

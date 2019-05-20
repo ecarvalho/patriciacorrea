@@ -49,3 +49,13 @@ a {
     border-color: darken($secondary, 10%);
   }
 }
+
+.main {
+  min-height: 100vh;
+  padding-bottom: 4.5rem;
+}
+
+.copyright {
+  margin-top: -4.5rem;
+  height: 4.5rem;
+}
